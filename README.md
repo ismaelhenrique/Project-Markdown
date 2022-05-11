@@ -26,7 +26,7 @@ npm install -g json-server
 ```
 ### Compiles and hot-reloads for development
 ```
-json-serer --watch db.json
+json-server --watch db.json
 ```
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
